@@ -2,8 +2,7 @@
 
 A high-performance, immersive product marketing website built with **React 19**, **Three.js**, and **GSAP**. This project showcases the MacBook Pro through interactive 3D models, smooth scroll-triggered animations, and a premium "Apple-style" user experience.
 
-[🔗 Live Demo](mac-book-pro-phi.vercel.app)
-
+[🔗 Live Demo](https://mac-book-pro-phi.vercel.app)
 ---
 ## 📸 Project Preview
 ![MacBook Pro Universe Dashboard Preview](https://github.com/user-attachments/assets/ac915d98-7a6a-4289-97a3-55bb98960193)
